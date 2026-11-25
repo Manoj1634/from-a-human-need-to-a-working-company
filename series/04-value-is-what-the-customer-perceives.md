@@ -70,7 +70,7 @@ The weakest score is usually where your next improvement should go, and it is of
 ---
 
 **Go deeper in the free guide:**
-- [§2 Value](GITHUB_REPO_URL#2-value-is-what-the-customer-perceives)
-- [§7 The 7 Powers: how a company keeps its advantage](GITHUB_REPO_URL#7-where-to-aim)
+- [§2 Value](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#2-value-is-what-the-customer-perceives)
+- [§7 The 7 Powers: how a company keeps its advantage](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#7-where-to-aim)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*

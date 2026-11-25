@@ -54,6 +54,6 @@ If you're an engineer, or you're thinking about building a company of your own, 
 ---
 
 **Go deeper in the free guide:**
-- [§11 A company is a body with seats: the full seats table and why a company earns more than one person](GITHUB_REPO_URL#11-a-company-is-a-body-with-seats)
+- [§11 A company is a body with seats: the full seats table and why a company earns more than one person](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#11-a-company-is-a-body-with-seats)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*

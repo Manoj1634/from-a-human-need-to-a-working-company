@@ -72,7 +72,7 @@ Their answer is your real competition.
 ---
 
 **Go deeper in the free guide:**
-- [§8 Positioning in full](GITHUB_REPO_URL#8-communication-value-nobody-hears-doesnt-exist)
-- [§10 The 8 growth drivers, with a check for each](GITHUB_REPO_URL#10-what-makes-a-company-grow)
+- [§8 Positioning in full](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#8-communication-value-nobody-hears-doesnt-exist)
+- [§10 The 8 growth drivers, with a check for each](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#10-what-makes-a-company-grow)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*

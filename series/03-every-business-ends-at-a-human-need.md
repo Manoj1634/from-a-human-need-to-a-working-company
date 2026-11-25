@@ -67,6 +67,6 @@ You may find the person at the end of the chain isn't who you expected.
 ---
 
 **Go deeper in the free guide:**
-- [§3 The value chain: why companies give things away to win](GITHUB_REPO_URL#3-b2c-b2b-and-the-stock-market-are-one-loop)
+- [§3 The value chain: why companies give things away to win](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#3-b2c-b2b-and-the-stock-market-are-one-loop)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*

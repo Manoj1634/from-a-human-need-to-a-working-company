@@ -53,6 +53,6 @@ I'm learning this as I write it. If you're on the same path, follow along.
 ---
 
 **Go deeper in the free guide:**
-- [The full guide](GITHUB_REPO_URL)
+- [The full guide](https://github.com/Manoj1634/from-a-human-need-to-a-working-company)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*

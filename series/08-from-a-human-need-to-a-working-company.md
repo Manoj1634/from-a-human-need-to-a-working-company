@@ -68,7 +68,7 @@ If you've followed along, I hope you are too.
 ---
 
 **Go deeper in the free guide:**
-- [§9 Doblin's 10 types of innovation](GITHUB_REPO_URL#9-winning-when-the-problem-is-already-solved)
-- [§12 All 13 principles](GITHUB_REPO_URL#12-principles-im-taking-with-me)
+- [§9 Doblin's 10 types of innovation](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#9-winning-when-the-problem-is-already-solved)
+- [§12 All 13 principles](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#12-principles-im-taking-with-me)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*

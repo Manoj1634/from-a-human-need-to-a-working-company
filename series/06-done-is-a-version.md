@@ -82,7 +82,7 @@ Fix only that one thing.
 ---
 
 **Go deeper in the free guide:**
-- [§4 The task card and the context-engineering rules](GITHUB_REPO_URL#4-the-task-model-roles-atoms-and-a-frame)
-- [§6 The troubleshooting table with a quick test for each row](GITHUB_REPO_URL#6-troubleshooting-seven-places-a-task-breaks)
+- [§4 The task card and the context-engineering rules](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#4-the-task-model-roles-atoms-and-a-frame)
+- [§6 The troubleshooting table with a quick test for each row](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#6-troubleshooting-seven-places-a-task-breaks)
 
-*Full guide on [GitHub](GITHUB_REPO_URL) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
