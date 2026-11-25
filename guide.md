@@ -67,6 +67,8 @@ Clayton Christensen's *Jobs to Be Done* says the same thing at the level of a si
 
 **Test:** if you can't trace what you sell back to one of these needs, through a job someone is trying to get done, nobody needs it.
 
+**Read the story:** [Part 3: Every Business Ends at a Human Need](series/03-every-business-ends-at-a-human-need.md)
+
 **Connects to:** [Value](#2-value-is-what-the-customer-perceives) · [Story](#8-communication-value-nobody-hears-doesnt-exist) · [Aim](#7-where-to-aim)
 
 **Go deeper:** [Max-Neef's fundamental human needs](https://en.wikipedia.org/wiki/Manfred_Max-Neef%27s_Fundamental_human_needs) · [Christensen's milkshake story (HBS)](https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing)
@@ -103,6 +105,8 @@ Two of the four levers are on the bottom. Many offers promise the same outcome. 
 
 Creating value and keeping it are different skills. Your price is the slice you keep. The rest is the customer's gain, and that's why they come back.
 
+**Read the story:** [Part 4: Value Is What the Customer Perceives](series/04-value-is-what-the-customer-perceives.md)
+
 **Connects to:** [Needs](#1-every-business-ends-at-a-human-need) · [Company as a body](#11-a-company-is-a-body-with-seats) · [Story](#8-communication-value-nobody-hears-doesnt-exist)
 
 **Go deeper:** [Smith, *Wealth of Nations*, Book I ch. 1](https://en.wikisource.org/wiki/The_Wealth_of_Nations/Book_I/Chapter_1) · [The value equation applied to UX](https://uxdesign.cc/the-ux-of-value-perception-7aada3a5a46f)
@@ -132,6 +136,8 @@ Returns become people's savings  ←  Investors fund the chain
 Joel Spolsky described a pattern in 2002: demand for a product goes up when the price of its complements goes down. So smart companies try to make their complements cheap and interchangeable. Microsoft licensed its operating system to every PC maker. PC hardware became a commodity, and the margin stayed with Windows. The same logic explains why some companies give away open AI models or free tools: they want the layer next to theirs to be cheap.
 
 When you pick your link, ask: **which layer is the bottleneck everyone has to pass through, and which layers are commodities?**
+
+**Read the story:** [Part 3: Every Business Ends at a Human Need](series/03-every-business-ends-at-a-human-need.md)
 
 **Connects to:** [Aim](#7-where-to-aim) · [Innovate](#9-winning-when-the-problem-is-already-solved) · [Grow](#10-what-makes-a-company-grow)
 
@@ -174,6 +180,8 @@ ROLE:    Plan / Build / Execute / Review / Validate
 ATOMS:   context | tools | model | guardrails | eval
 GAP:     what's missing → how to get it → time/energy
 ```
+
+**Read the story:** [Part 6: "Done" Is a Version](series/06-done-is-a-version.md)
 
 **Connects to:** [Solve](#5-solving-a-problem-in-ten-steps) · [Troubleshoot](#6-troubleshooting-seven-places-a-task-breaks) · [Company](#11-a-company-is-a-body-with-seats)
 
@@ -233,6 +241,8 @@ This is the engineering version of a business's build-measure-learn loop: small 
 
 The technique comes from Toyota's production system. People who use it add two refinements. First, the number five is a nudge, not a rule; even Ohno's classic example has more links once you unpack it. Second, a real root cause usually points to a **process** that is broken or missing, not to a person. Some problems also have several root causes, so stop when you reach something a process change can fix.
 
+**Read the story:** [Part 6: "Done" Is a Version](series/06-done-is-a-version.md)
+
 **Connects to:** [Task model](#4-the-task-model-roles-atoms-and-a-frame) · [Troubleshoot](#6-troubleshooting-seven-places-a-task-breaks) · [Grow](#10-what-makes-a-company-grow)
 
 **Go deeper:** [IHI, 5 Whys: finding the root cause](https://www.ihi.org/library/tools/5-whys-finding-root-cause) · [Lean Blog, Ohno's example deserves another why](https://www.leanblog.org/2026/04/ohno-5-whys-actually-seven/)
@@ -256,6 +266,8 @@ The technique comes from Toyota's production system. People who use it add two r
 Goal and size problems look like every other problem, so rule them out first. Context is the most common real cause. The model or skill is usually the last thing to suspect.
 
 **The fix loop:** name it in one line → change only that one thing → rerun the same input → check against the done-check → save the fix as a rule, example or tool.
+
+**Read the story:** [Part 6: "Done" Is a Version](series/06-done-is-a-version.md)
 
 ---
 
@@ -287,6 +299,8 @@ Being better is a temporary edge. Hamilton Helmer's *7 Powers* names the seven w
 | Branding | People pay more because of what you mean to them |
 | Cornered resource | You own something scarce: data, talent, a license |
 | Process power | Years of know-how a rival can't copy from a document |
+
+**Read the story:** [Part 7: Getting It to People](series/07-getting-it-to-people.md) · [Part 8: From a Human Need to a Working Company](series/08-from-a-human-need-to-a-working-company.md)
 
 **Connects to:** [Value chain](#3-b2c-b2b-and-the-stock-market-are-one-loop) · [Innovate](#9-winning-when-the-problem-is-already-solved) · [Grow](#10-what-makes-a-company-grow)
 
@@ -320,6 +334,8 @@ April Dunford breaks positioning into parts you work out in order:
 6. *(Bonus)* **Relevant trends:** why it matters now
 
 If the message isn't landing, the problem is often the positioning underneath it.
+
+**Read the story:** [Part 7: Getting It to People](series/07-getting-it-to-people.md)
 
 **Connects to:** [Needs](#1-every-business-ends-at-a-human-need) · [Value equation](#2-value-is-what-the-customer-perceives) · [Grow](#10-what-makes-a-company-grow)
 
@@ -363,6 +379,8 @@ Their finding: leaders combine several types, because a product on its own is ea
 
 **For engineers:** AI is a capability shift owned by a few labs. For everyone else, the money is in turning it into a **system and an experience** that a specific customer can use. That is exactly what an AI engineer or an AI agency sells.
 
+**Read the story:** [Part 8: From a Human Need to a Working Company](series/08-from-a-human-need-to-a-working-company.md)
+
 **Connects to:** [Complements](#3-b2c-b2b-and-the-stock-market-are-one-loop) · [7 Powers](#7-where-to-aim) · [Grow](#10-what-makes-a-company-grow)
 
 **Go deeper:** [Christensen Institute, Modularity theory](https://www.christenseninstitute.org/theory/modularity/) · [Stratechery, What Christensen got wrong](https://stratechery.com/2013/clayton-christensen-got-wrong/) · [Doblin's 10 Types of Innovation](https://www.mindtools.com/as67pbm/doblins-10-types-of-innovation/) · [iPhone timeline](https://www.consumerreports.org/apple/iphone-turns-10-how-it-became-cultural-icon/)
@@ -391,6 +409,8 @@ Sean Ellis's test asks users how they'd feel if they could no longer use the pro
 ### Loops, not funnels
 
 Reforge argues that the fastest-growing products work as **loops**: each user's output (content, invites, referrals, reinvested revenue) brings in the next users. A funnel needs constant new input, while a loop compounds. Paid ads can start the fire, but a loop keeps it burning.
+
+**Read the story:** [Part 7: Getting It to People](series/07-getting-it-to-people.md)
 
 **Connects to:** [Smallest test](#5-solving-a-problem-in-ten-steps) · [7 Powers](#7-where-to-aim) · [Company loop](#11-a-company-is-a-body-with-seats)
 
@@ -440,6 +460,8 @@ Inside every seat, the same five roles run: someone **plans, builds, executes, r
 
 **The org chart becomes the product.** Melvin Conway observed that systems end up mirroring the communication structure of the groups that build them. If the seats don't talk to each other, the product has seams. This applies to multi-agent AI systems too: the way you split up agents shapes what they produce. The "inverse Conway" move is to design the teams around the system you want.
 
+**Read the story:** [Part 5: One Person, Every Seat](series/05-one-person-every-seat.md) · [Part 2: What Does It Take to Build a Company?](series/02-what-does-it-take-to-build-a-company.md)
+
 **Connects to:** [Roles × departments](#4-the-task-model-roles-atoms-and-a-frame) · [Specialization](#2-value-is-what-the-customer-perceives) · [Principles](#12-principles-im-taking-with-me)
 
 **Go deeper:** [Horowitz on *High Output Management*](https://a16z.com/2015/11/13/high-output-management/) · [Martin Fowler, Conway's Law](https://www.martinfowler.com/bliki/ConwaysLaw.html)
@@ -463,6 +485,8 @@ Inside every seat, the same five roles run: someone **plans, builds, executes, r
 11. **Choose reach or control.** Decide on purpose whether to integrate the whole stack or plug into someone else's.
 12. **No orphan seats.** Every seat has an owner: me, a hire, or an AI agent.
 13. **Protect the founder's atoms.** My health, my people and my runway are the company's first system.
+
+**Read the story:** [Part 8: From a Human Need to a Working Company](series/08-from-a-human-need-to-a-working-company.md)
 
 ---
 
