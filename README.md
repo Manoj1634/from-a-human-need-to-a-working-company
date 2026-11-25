@@ -38,4 +38,4 @@ Each part takes about 4 minutes and ends with a link to the next.
 
 ## Follow along
 
-A new part every 8 days on [LinkedIn](LINKEDIN_LINK). Full posts on [Substack](SUBSTACK_LINK).
+One part a day for 8 days on [LinkedIn](LINKEDIN_LINK). Full posts on [Substack](SUBSTACK_LINK).
