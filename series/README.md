@@ -1,6 +1,6 @@
 # The Series
 
-*From a Human Need to a Working Company, in eight short parts. By Manoj.*
+*From a Human Need to a Working Company, in eight short parts. By Manoj Padala.*
 
 Each part takes about 4 minutes and ends with a link to the next.
 

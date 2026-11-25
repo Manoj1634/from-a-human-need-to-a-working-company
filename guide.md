@@ -1,6 +1,6 @@
 # From a Human Need to a Working Company: All My Notes
 
-*An engineer's notes on what sits above engineering. By Manoj.*
+*An engineer's notes on what sits above engineering. By Manoj Padala.*
 
 [← Back to the overview](README.md) · [Read the series](series/) · [Download as PDF](pdf/guide.pdf)
 
