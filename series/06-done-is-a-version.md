@@ -81,8 +81,12 @@ Fix only that one thing.
 
 ---
 
-**Go deeper in the free guide:**
-- [§4 The task card and the context-engineering rules](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#4-the-task-model-roles-atoms-and-a-frame)
-- [§6 The troubleshooting table with a quick test for each row](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#6-troubleshooting-seven-places-a-task-breaks)
+**Go deeper in my notes:**
+- [§4 The task card and the context-engineering rules](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#4-the-task-model-roles-atoms-and-a-frame)
+- [§6 The troubleshooting table with a quick test for each row](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#6-troubleshooting-seven-places-a-task-breaks)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 5: One Person, Every Seat: Why a Company Works Better Together](05-one-person-every-seat.md) · [All parts](README.md) · [Part 7: Getting It to People: Aim, Story, Funding and Selling →](07-getting-it-to-people.md)

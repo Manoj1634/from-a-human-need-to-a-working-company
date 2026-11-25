@@ -53,7 +53,11 @@ If you're an engineer, or you're thinking about building a company of your own, 
 
 ---
 
-**Go deeper in the free guide:**
-- [§11 A company is a body with seats: the full seats table and why a company earns more than one person](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#11-a-company-is-a-body-with-seats)
+**Go deeper in my notes:**
+- [§11 A company is a body with seats: the full seats table and why a company earns more than one person](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#11-a-company-is-a-body-with-seats)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 1: Coding Is Becoming a Solved Problem. What Comes Next?](01-coding-is-becoming-solved.md) · [All parts](README.md) · [Part 3: Every Business Ends at a Human Need →](03-every-business-ends-at-a-human-need.md)

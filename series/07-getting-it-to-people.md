@@ -71,8 +71,12 @@ Their answer is your real competition.
 
 ---
 
-**Go deeper in the free guide:**
-- [§8 Positioning in full](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#8-communication-value-nobody-hears-doesnt-exist)
-- [§10 The 8 growth drivers, with a check for each](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#10-what-makes-a-company-grow)
+**Go deeper in my notes:**
+- [§8 Positioning in full](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#8-communication-value-nobody-hears-doesnt-exist)
+- [§10 The 8 growth drivers, with a check for each](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#10-what-makes-a-company-grow)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 6: "Done" Is a Version: How Engineers Already Think Like a Business](06-done-is-a-version.md) · [All parts](README.md) · [Part 8: From a Human Need to a Working Company →](08-from-a-human-need-to-a-working-company.md)

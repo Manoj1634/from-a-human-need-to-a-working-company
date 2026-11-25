@@ -67,8 +67,12 @@ If you've followed along, I hope you are too.
 
 ---
 
-**Go deeper in the free guide:**
-- [§9 Doblin's 10 types of innovation](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#9-winning-when-the-problem-is-already-solved)
-- [§12 All 13 principles](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#12-principles-im-taking-with-me)
+**Go deeper in my notes:**
+- [§9 Doblin's 10 types of innovation](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#9-winning-when-the-problem-is-already-solved)
+- [§12 All 13 principles](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#12-principles-im-taking-with-me)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 7: Getting It to People: Aim, Story, Funding and Selling](07-getting-it-to-people.md) · [All parts](README.md)

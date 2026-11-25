@@ -82,7 +82,11 @@ The seats marked "nobody" are where your next problem will come from.
 
 ---
 
-**Go deeper in the free guide:**
-- [§11 The full seats table and the company-as-a-body map](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#11-a-company-is-a-body-with-seats)
+**Go deeper in my notes:**
+- [§11 The full seats table and the company-as-a-body map](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#11-a-company-is-a-body-with-seats)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 4: Value Is What the Customer Perceives](04-value-is-what-the-customer-perceives.md) · [All parts](README.md) · [Part 6: "Done" Is a Version: How Engineers Already Think Like a Business →](06-done-is-a-version.md)

@@ -69,8 +69,12 @@ The weakest score is usually where your next improvement should go, and it is of
 
 ---
 
-**Go deeper in the free guide:**
-- [§2 Value](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#2-value-is-what-the-customer-perceives)
-- [§7 The 7 Powers: how a company keeps its advantage](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#7-where-to-aim)
+**Go deeper in my notes:**
+- [§2 Value](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#2-value-is-what-the-customer-perceives)
+- [§7 The 7 Powers: how a company keeps its advantage](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#7-where-to-aim)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 3: Every Business Ends at a Human Need](03-every-business-ends-at-a-human-need.md) · [All parts](README.md) · [Part 5: One Person, Every Seat: Why a Company Works Better Together →](05-one-person-every-seat.md)

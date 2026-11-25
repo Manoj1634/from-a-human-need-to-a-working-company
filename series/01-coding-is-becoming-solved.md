@@ -52,7 +52,11 @@ I'm learning this as I write it. If you're on the same path, follow along.
 
 ---
 
-**Go deeper in the free guide:**
-- [The full guide](https://github.com/Manoj1634/from-a-human-need-to-a-working-company)
+**Go deeper in my notes:**
+- [All my notes in one place](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[All parts](README.md) · [Part 2: What Does It Take to Build a Company? →](02-what-does-it-take-to-build-a-company.md)

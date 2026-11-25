@@ -66,7 +66,11 @@ You may find the person at the end of the chain isn't who you expected.
 
 ---
 
-**Go deeper in the free guide:**
-- [§3 The value chain: why companies give things away to win](https://github.com/Manoj1634/from-a-human-need-to-a-working-company#3-b2c-b2b-and-the-stock-market-are-one-loop)
+**Go deeper in my notes:**
+- [§3 The value chain: why companies give things away to win](https://github.com/Manoj1634/from-a-human-need-to-a-working-company/blob/main/guide.md#3-b2c-b2b-and-the-stock-market-are-one-loop)
 
-*Full guide on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+*All my notes on [GitHub](https://github.com/Manoj1634/from-a-human-need-to-a-working-company) · Connect on [LinkedIn](LINKEDIN_LINK)*
+
+---
+
+[← Part 2: What Does It Take to Build a Company?](02-what-does-it-take-to-build-a-company.md) · [All parts](README.md) · [Part 4: Value Is What the Customer Perceives →](04-value-is-what-the-customer-perceives.md)
