@@ -1,6 +1,6 @@
 # From a Human Need to a Working Company
 
-*An engineer's notes on what sits above engineering. By Manoj.*
+*An engineer's notes on what sits above engineering. By Manoj Padala.*
 
 AI is writing more of our code. So where does the hard part go now?
 
