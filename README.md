@@ -38,4 +38,4 @@ Each part takes about 4 minutes and ends with a link to the next.
 
 ## Follow along
 
-One part a day for 8 days on [LinkedIn](LINKEDIN_LINK). All my notes in one place on [Substack](https://manojpadala.substack.com).
+Prefer reading outside GitHub? The 8 parts and the full guide are also on [Substack](https://manojpadala.substack.com), where you can get new notes by email.
