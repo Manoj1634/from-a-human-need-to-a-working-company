@@ -34,7 +34,7 @@ Each part takes about 4 minutes and ends with a link to the next.
 ## Also here
 
 - **[All my notes in one place](guide.md):** every framework and source I drew on, as one reference map
-- **PDFs:** [the series](pdf/series.pdf) · [all my notes](pdf/guide.pdf) · [a visual version](pdf/guide-visual.pdf)
+- **PDFs:** [the series](pdf/series.pdf) · [all my notes](pdf/guide.pdf)
 
 ## Follow along
 
